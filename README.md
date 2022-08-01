@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rdtechie.rdtechie)
 
-### I work as a Senior Customer Engineer at Microsoft.
+### I work as a Senior DevOps Engineer at Albert Heijn Technology.
 
 #### What am I up to?
 
@@ -24,7 +24,7 @@ I also like ☕️ with the word "mouthfeel" on the packaging.
 
 | |                       |                                                                                                                 |
 |-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-|🖥| **Operating System** | Windows                                                                                                         |
+|🖥| **Operating System** | MacOS                                                                                                         |
 |📺| **Terminal**         | [Windows Terminal]([https://iterm2.com/](https://docs.microsoft.com/en-us/windows/terminal/))                  |
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)                                                                    |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode)                                                      |
