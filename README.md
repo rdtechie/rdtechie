@@ -6,8 +6,8 @@
 
 #### What am I up to?
 
-- 🔭 I specialize in automating Azure. 😁
-- 🌱 I’ve also been learning about coding languages like Python, Go & .NET 📓
+- 🔭 I specialize in automating stuff. 😁
+- 🌱 I’ve also been learning about coding languages like Rust, Python, Go & .NET 📓
 - 🤔 I’m also working with technologies like Kubernetes and Linux. 🐢✅
 
 #### Bio
@@ -22,14 +22,14 @@ I also like ☕️ with the word "mouthfeel" on the packaging.
 
 #### Tech preferences
 
-| |                       |                                                                                                                 |
-|-|-----------------------|-----------------------------------------------------------------------------------------------------------------|
-|🖥| **Operating System** | MacOS                                                                                                         |
-|📺| **Terminal**         | [Windows Terminal]([https://iterm2.com/](https://docs.microsoft.com/en-us/windows/terminal/))                  |
-|🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)                                                                    |
-|📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode)                                                      |
-|≣| **Custom**            | [posh-git](https://dahlbyk.github.io/posh-git/) and [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) |
+| |                       |                                 |
+|-|-----------------------|---------------------------------|
+|🖥| **Operating System** | Linux - Ubuntu 22.04            |
+|📺| **Terminal**         | tmux                            |
+|🐚| **Shell**            | ZSH                             |
+|📝| **Editor**           | NeoVim                          |
+|≣| **Custom**            | Oh-my-Zsh / i3 / tmux           |
 
 #### Contact
 
-You can find me on 🐦 Twitter [@rdtechie](https://twitter.com/rdtechie) - Ask me about Automation, PowerShell, my job at Microsoft, open source, anything!
+You can find me on 🐦 Twitter [@rdtechie](https://twitter.com/rdtechie) - Ask me about Automation, my job at Albert Heijn, open source, anything!
