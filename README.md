@@ -17,7 +17,6 @@
 Sometimes people give me a mic and I talk about 💻. I'm thinking about doing some live-coding perhaps on 👨‍💻 📺 projects of all kinds.
 I also like ☕️ with the word "mouthfeel" on the packaging.
 
-- 🙂 My preferred pronouns are: He/Him
 - ⚡ Fun fact: I'm originally from the province of Drenthe in the Netherlands, but don't hold that against me 😉
 
 #### Tech preferences
