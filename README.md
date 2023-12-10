@@ -1,49 +1,25 @@
-# Hi, I'm Richard👋👋👋
+# Hi, I'm Richard
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rdtechie.rdtechie)
 
 I work as a Senior DevOps Engineer at Albert Heijn Technology.
 
-## What am I up to?
+## What do I do?
 
-- 🔭 I specialize in automating stuff. 😁
-- 🌱 I also learn about coding languages like Rust, Python, Go & .NET 📓
-- 🤔 I’m also working with technologies like Nix and Linux. 🐢✅
-
-## Bio
-
-👀 All my work is open source 👀
-
-Sometimes people give me a mic and I talk about 💻. I'm thinking about doing some live-coding perhaps on Twitch.
-I also like ☕.
-
-⚡ Fun fact: I'm originally from the province of Drenthe in the Netherlands, but don't hold that against me 😉
+- I specialize in automating stuff.
+- I also learn about coding languages like Rust, Python, Go & .NET
+- I’m also working with technologies like Nix and Linux.
 
 #### Tech preferences
 
-<table class="table">
-	<tr>
-		<td data-title="ID" data-breakpoints="xs">💻 <b>OS</b></td>
-		<td>Pop!_OS / MacOS </td>
-	</tr>
-	<tr>
-		<td>📺 <b>Terminal</b>/td>
-		<td>Kitty</td>
-	</tr>
-	<tr>
-		<td>🐚 <b>Shell</b></td>
-		<td>Nushell</td>
-	</tr>
-	<tr>
-		<td>📝 <b>Editor</b></td>
-		<td>Neovim</td>
-	</tr>
-	<tr>
-		<td> ≣ <b>Custom</b></td>
-		<td>Soon</td>
-	</tr>
-</table>
+- 🎁 OS: MacOS
+- 🖥️ Terminal: WezTerm
+- ⭐ Shell: Zsh
+- 📝 Editor: Neovim
 
-#### Contact
+#### GitHub Stats
 
-You can find me on 🐦 Twitter [@rdtechie](https://twitter.com/rdtechie) - Ask me about Automation, my job at Albert Heijn, open source, anything!
+![GitHub User's stars](https://img.shields.io/github/stars/rdtechie?affiliations=OWNER%2CCOLLABORATOR&label=Owner%20%2B%20Collaborator%20Stars&logo=GitHub&style=for-the-badge&labelColor=343b41)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rdtechie&count_private=true&theme=catppuccin_mocha&showicons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdtechie&hide=css,html&layout=compact&theme=catppuccin_mocha)
